@@ -1,4 +1,4 @@
-module github.com/storezhang/gox
+module github.com/shemeby/gox
 
 go 1.14
 
